@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://yaart-web-alice-images.s3.yandex.net/e1cebdf2a28811f0be580a76bcb91d52:1" width="300"/>
 </div>
-<h1>DIPLOMA</h1>
+<center><h1>DIPLOMA</h1></center>
 <h1>Разработка чат бота с целью проверки профпригодности (профессиональные компетенции ПК) для следователей министерства внутренних дел Люберецкого района</h1>
 
 
@@ -11,6 +11,13 @@
 - БД: MySQL
 - Структура приложеия
 
-- Варианты использования Use Case
-  (https://drive.google.com/file/d/1nErGKV-CbDEWJwPYIGpC-27A4E6r_3dm/view?usp=sharing) 
- 
+- [Варианты использования Use Case](https://drive.google.com/file/d/1nErGKV-CbDEWJwPYIGpC-27A4E6r_3dm/view?usp=sharing)
+- Детльности Activity
+
+- Лист гугл таблицы на котором все данные()
+- Скрин ER диаграммы на этом же листе() 
+- Листы с данными для импорта()
+- Файл скрипта .sql()
+-Иконка, логотип и их название()
+- Навигационная панель и ссылки работают
+- Стили, цвета, шрифты()
