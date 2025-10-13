@@ -11,7 +11,7 @@
 - БД: SQLite
 
   <br><img height="600" alt="Варианты использования Use Case" src="https://github.com/Gasis0/Diplom/blob/main/2025-10-09_10-54.png" />
-- [Лист гугл таблицы на котором все данные]("https://docs.google.com/spreadsheets/d/15udLNjHYGbWl8MxxBbcsBMidjyZFeXHHuiYJWrhxb2M/edit?usp=sharing")
+- [Лист гугл таблицы на котором все данные](https://docs.google.com/spreadsheets/d/15udLNjHYGbWl8MxxBbcsBMidjyZFeXHHuiYJWrhxb2M/edit?usp=sharing)
 - Скрин ER диаграммы на этом же листе <br><img height="600" src="https://github.com/Gasis0/Diplom/blob/main/2025-10-08_22-06-43.png" width="1000"/>
 - Листы с данными для импорта()
 - Файл скрипта .sql()
