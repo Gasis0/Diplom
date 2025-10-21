@@ -12,7 +12,7 @@
 Use Case
   <br><img height="600" alt="Варианты использования Use Case" src="https://github.com/Gasis0/Diplom/blob/main/2025-10-09_10-54.png" />
   Структура приложения
-  <br><img height="600" alt="Структура приложения" src="2025-10-13_10-53.png" />
+  <br><img height="600" alt="Структура приложения" src="https://github.com/Gasis0/Diplom/blob/main/2025-10-21_11-24.png" />
 - [Лист гугл таблицы на котором все данные](https://docs.google.com/spreadsheets/d/15udLNjHYGbWl8MxxBbcsBMidjyZFeXHHuiYJWrhxb2M/edit?usp=sharing)
 - [Скрин ER диаграммы на этом же листе](https://drive.google.com/file/d/1iOVyZGHibjvKXEBahEWgjAheVURYyyCm/view?usp=sharing) <br><img height="600" src="https://github.com/Gasis0/Diplom/blob/main/2025-10-08_22-06-43.png" width="1000"/> 
 - Листы с данными для импорта()
