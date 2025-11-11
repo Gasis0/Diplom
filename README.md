@@ -11,7 +11,7 @@
 - БД: SQLite
 
 Use Case
-  <br><img height="600" alt="Варианты использования Use Case" src="https://github.com/Gasis0/Diplom/blob/main/2025-11-10_17-39-24.png" />
+  <br><img height="600" alt="Варианты использования Use Case" src="https://github.com/Gasis0/Diplom/blob/main/2025-11-11_10-51.png" />
   
   Структура приложения
   <br><img height="600" alt="Структура приложения" src="https://github.com/Gasis0/Diplom/blob/main/2025-10-21_11-24.png" />
