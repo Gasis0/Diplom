@@ -11,6 +11,7 @@
 - БД: SQLite
 Use Case
   <br><img height="600" alt="Варианты использования Use Case" src="https://github.com/Gasis0/Diplom/blob/main/2025-11-10_17-39-24.png" />
+  
   Структура приложения
   <br><img height="600" alt="Структура приложения" src="https://github.com/Gasis0/Diplom/blob/main/2025-10-21_11-24.png" />
 - [Лист гугл таблицы на котором все данные](https://docs.google.com/spreadsheets/d/15udLNjHYGbWl8MxxBbcsBMidjyZFeXHHuiYJWrhxb2M/edit?usp=sharing)
