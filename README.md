@@ -8,7 +8,7 @@
 - Telegram-Bot
 - Место практики: Главное управление МВД России Московской области. Телеграм для следователей. Бесплатный. 
 - Фреймворк: Telethon. Язык программирования: Python, JavaScript
-- БД: SQLite
+- БД: Mysql
 
 Use Case
   <br><img height="600" alt="Варианты использования Use Case" src="https://github.com/Gasis0/Diplom/blob/main/2025-11-11_10-51.png" />
